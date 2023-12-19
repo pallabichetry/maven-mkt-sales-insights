@@ -14,4 +14,6 @@
 
 ●	With this dashboard, the Revenue team able to gain insights into their revenue trend. This could help in maintaining their revenue with the target revenue.
 
+**Dashboard:**
 
+![image](https://github.com/pallabichetry/maven-mkt-sales-insights/assets/140261940/bc90158c-dfa3-488a-bbad-ec9e2f05132f)
